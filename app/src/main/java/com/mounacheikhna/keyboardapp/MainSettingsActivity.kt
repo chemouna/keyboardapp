@@ -3,7 +3,7 @@ package com.mounacheikhna.keyboardapp
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
-class MainActivity : AppCompatActivity() {
+class MainSettingsActivity : AppCompatActivity() {
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
